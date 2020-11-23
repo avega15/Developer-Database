@@ -1,0 +1,10 @@
+package com.example.demo;
+
+public class Skill {
+
+	public Object getId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
